@@ -1,5 +1,5 @@
-# nm
-Reimplementation of the nm command in C.
+# ft_nm
+Custom C implementation of the nm command.
 
 ```bash
 $ cat << EOF > sample.c
