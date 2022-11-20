@@ -1,4 +1,4 @@
-# ft_nm
+# Nm
 Custom C implementation of the nm command.
 
 ```bash
